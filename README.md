@@ -205,6 +205,4 @@ MIT License - see LICENSE.md for details
 - Email: support@pulsevibe.ai
 - Discord: discord.gg/pulsevibe
 
----
 
-Built with ❤️ for Indian creators, by creators
